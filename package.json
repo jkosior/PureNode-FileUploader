@@ -1,0 +1,22 @@
+{
+  "name": "purenode-fileuploader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fileuploader.js",
+  "scripts": {
+    "start": "node fileuploader.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jkosior/PureNode-FileUploader.git"
+  },
+  "keywords": [
+    "node",
+    "fileuploader"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jkosior/PureNode-FileUploader/issues"
+  }
+}
